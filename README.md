@@ -1,6 +1,6 @@
 complexcalculator
 =================
 
-University of New Orleans - CSCI 1583 Homework 6
+University of New Orleans Software Design I Homework Six – Complex Number Calculator
 
-A calculator that performs addition, subtraction, multiplication, and division operations for complex numbers.
+This program allows the user to add, subtract, multiply, or divide two complex numbers using a text-based user interface.
